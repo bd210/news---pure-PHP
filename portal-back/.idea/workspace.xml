@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d8d38447-0d92-4840-9d9f-d2b0e12e6632" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/inc/posts/pending.php" beforeDir="false" afterPath="$PROJECT_DIR$/Views/inc/posts/pending.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middleware.php" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/vendor/klein/klein" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/bramus/router" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/vendor/brick/math" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/collection" />
+      <path value="$PROJECT_DIR$/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/vendor/spatie/laravel-permission" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/pipeline" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/filesystem" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/session" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/http" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/auth" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/console" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/queue" />
+      <path value="$PROJECT_DIR$/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1utitLYgtgz96AsZYx7IfqXqmVg" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../shop" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\portal-back\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\portal-back\Validations" />
+      <recent name="C:\xampp\htdocs\portal-back" />
+      <recent name="C:\xampp\htdocs\portal-back\Views\inc\users" />
+      <recent name="C:\xampp\htdocs\portal-back\Views\inc" />
+      <recent name="C:\xampp\htdocs\portal-back\Views\components" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d8d38447-0d92-4840-9d9f-d2b0e12e6632" name="Default Changelist" comment="" />
+      <created>1625491500124</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625491500124</updated>
+      <workItem from="1625491501242" duration="1471000" />
+      <workItem from="1625559601352" duration="24006000" />
+      <workItem from="1625645928748" duration="23332000" />
+      <workItem from="1625723958671" duration="24626000" />
+      <workItem from="1625810010818" duration="25280000" />
+      <workItem from="1626070123229" duration="21461000" />
+      <workItem from="1626156451503" duration="22382000" />
+      <workItem from="1626250197098" duration="27760000" />
+      <workItem from="1626328932162" duration="25090000" />
+      <workItem from="1626415055432" duration="22550000" />
+      <workItem from="1626524814592" duration="5688000" />
+      <workItem from="1626674115442" duration="19958000" />
+      <workItem from="1626760383464" duration="10644000" />
+      <workItem from="1626847090525" duration="4308000" />
+      <workItem from="1626861289478" duration="47000" />
+      <workItem from="1626861382717" duration="1268000" />
+      <workItem from="1626865401514" duration="246000" />
+      <workItem from="1626865698505" duration="1046000" />
+      <workItem from="1626944090943" duration="10745000" />
+      <workItem from="1627019376959" duration="11056000" />
+      <workItem from="1627224368390" duration="5849000" />
+      <workItem from="1627278497661" duration="2240000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="452" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625655677033">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="452" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1625655677033" />
+    <state x="410" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1626866103256">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="154" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1360.728@0.0.1360.728" timestamp="1626866103256" />
+    <state x="485" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1626258124907">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="485" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1360.728@0.0.1360.728" timestamp="1626258124907" />
+    <state x="410" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1626529237520">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1360.728@0.0.1360.728" timestamp="1626529237520" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1626950439423">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1626950439423" />
+    <state x="475" y="87" key="NewPhpClassDialog" timestamp="1626866107121">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="475" y="87" key="NewPhpClassDialog/0.0.1360.728@0.0.1360.728" timestamp="1626866107121" />
+    <state x="515" y="287" key="NewPhpFileDialog" timestamp="1626422801045">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="515" y="287" key="NewPhpFileDialog/0.0.1360.728@0.0.1360.728" timestamp="1626422801045" />
+    <state x="181" y="9" key="SettingsEditor" timestamp="1626866298131">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="9" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1626866298131" />
+    <state x="201" y="116" width="1038" height="566" key="dock-window-1" timestamp="1625815630048">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="201" y="116" width="1038" height="566" key="dock-window-1/0.0.1360.728@0.0.1360.728" timestamp="1625815630048" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1626422473227">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1626422473227" />
+  </component>
+</project>

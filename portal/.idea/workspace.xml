@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="855896f5-7c31-4dbb-ac6b-5025d9aa5b79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/CommentController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/CommentController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/FrontendController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/FrontendController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Controllers/LoginController.php" beforeDir="false" afterPath="$PROJECT_DIR$/Controllers/LoginController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Models/Role.php" beforeDir="false" afterPath="$PROJECT_DIR$/Models/Role.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Views/components/navigation.php" beforeDir="false" afterPath="$PROJECT_DIR$/Views/components/navigation.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/eylmz/router" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/vendor/bramus/router" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/collections" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/container" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/contracts" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/database" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/macroable" />
+      <path value="$PROJECT_DIR$/vendor/illuminate/support" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/voku/portable-ascii" />
+      <path value="$PROJECT_DIR$/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/vendor/raelgc/template" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1u6sx7s4O0MylvdE3YCd93WIaQI" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../application" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\portal" />
+      <recent name="C:\xampp\htdocs\portal\Classes" />
+      <recent name="C:\xampp\htdocs\portal\Controllers" />
+      <recent name="C:\xampp\htdocs\portal\Views" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="855896f5-7c31-4dbb-ac6b-5025d9aa5b79" name="Default Changelist" comment="" />
+      <created>1623997616920</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623997616920</updated>
+      <workItem from="1623997618002" duration="16591000" />
+      <workItem from="1624016813371" duration="4485000" />
+      <workItem from="1624196317937" duration="8020000" />
+      <workItem from="1624257779392" duration="1943000" />
+      <workItem from="1624261960025" duration="21444000" />
+      <workItem from="1624342359690" duration="25038000" />
+      <workItem from="1624427790871" duration="26128000" />
+      <workItem from="1624514454375" duration="21920000" />
+      <workItem from="1624565743165" duration="600000" />
+      <workItem from="1624599997626" duration="847000" />
+      <workItem from="1624865801180" duration="583000" />
+      <workItem from="1624866790352" duration="21508000" />
+      <workItem from="1624945980359" duration="30277000" />
+      <workItem from="1625040662992" duration="17922000" />
+      <workItem from="1625119472490" duration="20605000" />
+      <workItem from="1625201954599" duration="21508000" />
+      <workItem from="1625408379195" duration="6505000" />
+      <workItem from="1625464228965" duration="8738000" />
+      <workItem from="1625475114833" duration="14974000" />
+      <workItem from="1625490792899" duration="62000" />
+      <workItem from="1625491087638" duration="1900000" />
+      <workItem from="1625558726063" duration="10977000" />
+      <workItem from="1625645761088" duration="4696000" />
+      <workItem from="1625723910605" duration="6022000" />
+      <workItem from="1625809947662" duration="2629000" />
+      <workItem from="1626070131018" duration="7201000" />
+      <workItem from="1626155582960" duration="5244000" />
+      <workItem from="1626250220414" duration="1811000" />
+      <workItem from="1626277434529" duration="2055000" />
+      <workItem from="1626328960019" duration="5363000" />
+      <workItem from="1626415026376" duration="3166000" />
+      <workItem from="1626432598410" duration="1312000" />
+      <workItem from="1626524810264" duration="1106000" />
+      <workItem from="1626674007055" duration="2852000" />
+      <workItem from="1626760346304" duration="750000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1625056112425">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="451" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1360.728@0.0.1360.728" timestamp="1625056112425" />
+    <state x="410" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1624284067112">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="111" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1360.728@0.0.1360.728" timestamp="1624284067112" />
+    <state x="410" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1626432068599">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="410" y="119" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1360.728@0.0.1360.728" timestamp="1626432068599" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1626689456785">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1626689456785" />
+    <state x="502" y="87" key="NewPhpClassDialog" timestamp="1626704861169">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="502" y="87" key="NewPhpClassDialog/0.0.1360.728@0.0.1360.728" timestamp="1626704861169" />
+    <state x="515" y="287" key="NewPhpFileDialog" timestamp="1626428158623">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="515" y="287" key="NewPhpFileDialog/0.0.1360.728@0.0.1360.728" timestamp="1626428158623" />
+    <state x="181" y="9" key="SettingsEditor" timestamp="1625064692750">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="9" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1625064692750" />
+    <state x="336" y="162" key="run.anything.popup" timestamp="1625212693836">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="336" y="162" key="run.anything.popup/0.0.1360.728@0.0.1360.728" timestamp="1625212693836" />
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1624351151606">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="343" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1360.728@0.0.1360.728" timestamp="1624351151606" />
+  </component>
+</project>
